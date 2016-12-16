@@ -1,0 +1,3 @@
+model_checkpoint_path: "setbit_count_model_final.ckpt-500"
+all_model_checkpoint_paths: "setbit_count_model.ckpt-500"
+all_model_checkpoint_paths: "setbit_count_model_final.ckpt-500"
